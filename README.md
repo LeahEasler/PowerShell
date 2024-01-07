@@ -29,3 +29,6 @@ PowerShell is not a scripting tool but also can use Object Oriented Programming 
 ### Using switch in PowerShell
 Switch allows the console to change paths.
 
+## [Loops.ps1](https://github.com/LeahEasler/PowerShell/blob/main/Loops.ps1)
+### Using foreach to create loops
+the foreach command copies objections into variables
