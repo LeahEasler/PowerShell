@@ -6,12 +6,21 @@ This will help me keep track of what tools are available at a quick glance, star
 
 ### Using VSCode in order to push changes to this repository.
 ##### Issues I found while doing so.
-- [x] Enter Name and Email by editing the git config
+###### Enter Name and Email by editing the git config
 ```
 git config --global user.name “Firstname Lastname”
 git config --global user.email “email@domain.com” 
 ```
+##### On the Terminal on my PC I needed to run the following commands:
+```
+git init
+git add .
+get commit -am "commit message"
+```
 
-## Using If, Else, and ElseIf in Powershell
-The file UsingElseAndIf.ps1 showcases how Flow Control works within PowerShell.
+# File Guide
+
+## UsingElseAndIf.ps1
+### Using If, Else, and ElseIf in Powershell
+The file showcases how Flow Control works within PowerShell.
 PowerShell is not a scripting tool but also can use Object Oriented Programming or OOP for short.
