@@ -24,3 +24,8 @@ get commit -am "commit message"
 ### Using If, Else, and ElseIf in Powershell
 The file showcases how Flow Control works within PowerShell.
 PowerShell is not a scripting tool but also can use Object Oriented Programming or OOP for short.
+
+## [UtilizingSwitch.ps1](https://github.com/LeahEasler/PowerShell/blob/main/UtilizingSwitch.ps1)
+### Using switch in PowerShell
+Switch allows the console to change paths.
+
