@@ -1,0 +1,1 @@
+$servers.foreach({Get-Content -Path "\\$_\c$\App_configuration.txt"})
