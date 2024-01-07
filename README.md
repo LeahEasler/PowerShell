@@ -37,5 +37,3 @@ Switch allows the console to change paths.
 - for loop
 - while
 - do/while
-  
-the foreach command copies objections into variables
